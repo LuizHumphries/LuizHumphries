@@ -13,6 +13,8 @@
 <a href="https://instagram.com/lghumphries" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lghumphries" height="30" width="40" /></a>
 </p>
 
+<iframe src="https://hackerrank-badge.herokuapp.com/https://github.com/LuizHumphries?s=1" style="border: 0; height: 230px; width: 240px; overflow:hidden;" scrolling="no" frameBorder="0"></iframe>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luizhumphries&theme=react&show_icons=true&locale=en" alt="luizhumphries" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
