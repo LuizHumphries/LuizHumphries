@@ -3,7 +3,7 @@
 
 
 - 🔭 Working at **TechnipFMC**
-- 🌱 Currently using **Python** fo **Data Analysis** and **Process Optimization**
+- 🌱 Currently using **Python** for **Data Analysis**, **Process Optimization**, **CRUD** and creation of **REST Api**
 - 🤔 Studying JavaScript, React and TypeScript
 - 📫 Contact: **luizgustavo.frota@outlook.com**
 <h3 align="left">Connect with me:</h3>
