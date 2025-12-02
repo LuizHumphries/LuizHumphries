@@ -23,7 +23,8 @@ I am a Senior Engineer with a unique dual-background. I combine the mathematical
 **Performance & Quality**: Architected React components with full ARIA compliance and optimized rendering via memoization. Owned the CircleCI pipeline, implementing type-checking and testing gates for production deployment.
 
 
-![luizhumphries's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luizhumphries&theme=dracula&show_icons=true&hide_border=false&layout=compact)
+![luizhumphries's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)]
+
 
 📬 Let's Connect
 
