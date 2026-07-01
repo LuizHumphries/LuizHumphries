@@ -4,7 +4,8 @@
 ### Software engineer at [Aedit](https://aedit.com)
 
 ```ts
-// Full-stack dev. I like fast iteration, clean systems, and software that feels good to use.
+// Full-stack dev. I like fast iteration, clean systems,
+// and software that feels good to use.
 ```
 
 <table border="0">
